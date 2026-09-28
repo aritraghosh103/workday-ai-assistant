@@ -17,19 +17,20 @@
 
         input {
             padding: 8px;
-            width: 250px;
+            width: 300px;
         }
 
         button {
             padding: 8px;
             margin-left: 5px;
+            margin-top: 5px;
         }
 
         #result {
             margin-top: 20px;
             border: 1px solid #ddd;
             padding: 15px;
-            min-height: 50px;
+            min-height: 100px;
         }
 
     </style>
@@ -53,6 +54,17 @@
 
     <button onclick="searchEmployee()">
         Search Employee
+    </button>
+
+    <br><br>
+
+    <input
+        type="text"
+        id="managerName"
+        placeholder="Enter manager name">
+
+    <button onclick="showTeam()">
+        Show Team
     </button>
 
     <div id="result">
