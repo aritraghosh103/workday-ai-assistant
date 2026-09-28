@@ -6,10 +6,19 @@ async function loadEmployees() {
     const data =
         await response.json();
 
+    let html = "";
+
+    data.Report_Entry.forEach(emp => {
+
+        html +=
+            emp["Legal_Name_-_First_Name"] +
+            " " +
+            emp["Legal_Name_-_Last_Name"] +
+            "<br>";
+
+    });
+
     document.getElementById("result")
-        .innerHTML =
-        "Loaded " +
-        data.Report_Entry.length +
-        " employees.";
+        .innerHTML = html;
 
 }
