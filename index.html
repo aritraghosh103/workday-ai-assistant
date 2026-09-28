@@ -15,6 +15,23 @@
             color: #0078d4;
         }
 
+        input {
+            padding: 8px;
+            width: 250px;
+        }
+
+        button {
+            padding: 8px;
+            margin-left: 5px;
+        }
+
+        #result {
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            padding: 15px;
+            min-height: 50px;
+        }
+
     </style>
 
 </head>
@@ -27,13 +44,23 @@
         Load Employees
     </button>
 
-    <p id="result">
+    <br><br>
+
+    <input
+        type="text"
+        id="employeeName"
+        placeholder="Enter employee first name">
+
+    <button onclick="searchEmployee()">
+        Search Employee
+    </button>
+
+    <div id="result">
         No data loaded.
-    </p>
+    </div>
 
     <script src="script.js"></script>
 
 </body>
-
 
 </html>
