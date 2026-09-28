@@ -1,0 +1,515 @@
+{
+"Report_Entry": [{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "20469",
+   "Legal_Name_-_First_Name": "Chandru",
+   "Legal_Name_-_Last_Name": "MN",
+   "Manager": "Rajesh Mangipudi (17468)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "20592",
+   "Legal_Name_-_First_Name": "Rajesh",
+   "Legal_Name_-_Last_Name": "Arumugam",
+   "Manager": "Eric Theis (10843)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "20842",
+   "Legal_Name_-_First_Name": "Karthiga",
+   "Legal_Name_-_Last_Name": "T",
+   "Manager": "Eric Theis (10843)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "21657",
+   "Legal_Name_-_First_Name": "Gopesh",
+   "Legal_Name_-_Last_Name": "Sharma",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "21982",
+   "Legal_Name_-_First_Name": "Render",
+   "Legal_Name_-_Last_Name": "Sangma",
+   "Manager": "Emily Stephens (18959)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "23240",
+   "Legal_Name_-_First_Name": "Sruthi",
+   "Legal_Name_-_Last_Name": "Damireddy",
+   "Manager": "Surendra Mathe (17467)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "23343",
+   "Legal_Name_-_First_Name": "Gaurav",
+   "Legal_Name_-_Last_Name": "Upadhyay",
+   "Manager": "Eric Theis (10843)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "24360",
+   "Legal_Name_-_First_Name": "Soumya",
+   "Legal_Name_-_Last_Name": "Veeresh",
+   "Manager": "Lucy Olsen (23555)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "24712",
+   "Legal_Name_-_First_Name": "Alok",
+   "Legal_Name_-_Last_Name": "Mohanty",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "24974",
+   "Legal_Name_-_First_Name": "Ayana",
+   "Legal_Name_-_Last_Name": "Krishna",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "25138",
+   "Legal_Name_-_First_Name": "Ratna",
+   "Legal_Name_-_Last_Name": "Kalyanapu",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "25769",
+   "Legal_Name_-_First_Name": "Harish",
+   "Legal_Name_-_Last_Name": "Venkataraghavan",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "26166",
+   "Legal_Name_-_First_Name": "Molina",
+   "Legal_Name_-_Last_Name": "Gupta",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "27392",
+   "Legal_Name_-_First_Name": "Anjana",
+   "Legal_Name_-_Last_Name": "Arora",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "27393",
+   "Legal_Name_-_First_Name": "Visakh",
+   "Legal_Name_-_Last_Name": "NS",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "27412",
+   "Legal_Name_-_First_Name": "Parul",
+   "Legal_Name_-_Last_Name": "Shrivastava",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "27498",
+   "Legal_Name_-_First_Name": "Radhey",
+   "Legal_Name_-_Last_Name": "Reddy",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "28000",
+   "Legal_Name_-_First_Name": "Sunish",
+   "Legal_Name_-_Last_Name": "Balan",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "28045",
+   "Legal_Name_-_First_Name": "Laxmi",
+   "Legal_Name_-_Last_Name": "Patil",
+   "Manager": "Aritra Ghosh (42866)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "28314",
+   "Legal_Name_-_First_Name": "Omprakash",
+   "Legal_Name_-_Last_Name": "Ranganathan",
+   "Manager": "Karthiga T (20842)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "28364",
+   "Legal_Name_-_First_Name": "Shalini",
+   "Legal_Name_-_Last_Name": "Suneja",
+   "Manager": "Deepika Kalyanapu (25138)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "28365",
+   "Legal_Name_-_First_Name": "Yugantar",
+   "Legal_Name_-_Last_Name": "Mishra",
+   "Manager": "Laxmi Patil (On Leave) (28045)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "28372",
+   "Legal_Name_-_First_Name": "Shobhana",
+   "Legal_Name_-_Last_Name": "Jaiswal",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "28485",
+   "Legal_Name_-_First_Name": "Somya",
+   "Legal_Name_-_Last_Name": "Agarwal",
+   "Manager": "Laxmi Patil (28045)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "29667",
+   "Legal_Name_-_First_Name": "Tamal",
+   "Legal_Name_-_Last_Name": "Dey",
+   "Manager": "Aaron Menkens (18541)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "29668",
+   "Legal_Name_-_First_Name": "Mahima",
+   "Legal_Name_-_Last_Name": "Gupta",
+   "Manager": "Karthiga T (20842)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "40711",
+   "Legal_Name_-_First_Name": "Uday",
+   "Legal_Name_-_Last_Name": "Shankar",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "41133",
+   "Legal_Name_-_First_Name": "Khelawan",
+   "Legal_Name_-_Last_Name": "Verma",
+   "Manager": "Narasimha Rao Sama (41220)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "41134",
+   "Legal_Name_-_First_Name": "Rohith",
+   "Legal_Name_-_Last_Name": "Thatipally",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "41338",
+   "Legal_Name_-_First_Name": "Shichy",
+   "Legal_Name_-_Last_Name": "Seanan",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "41368",
+   "Legal_Name_-_First_Name": "Vidhya",
+   "Legal_Name_-_Last_Name": "Karunakara",
+   "Manager": "Aritra Ghosh (42866)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "42420",
+   "Legal_Name_-_First_Name": "Amit",
+   "Legal_Name_-_Last_Name": "Barman",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "42575",
+   "Legal_Name_-_First_Name": "Vinay Kumar",
+   "Legal_Name_-_Last_Name": "Kalva",
+   "Manager": "Aritra Ghosh (42866)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "42866",
+   "Legal_Name_-_First_Name": "Aritra",
+   "Legal_Name_-_Last_Name": "Ghosh",
+   "Manager": "Lucy Olsen (23555)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "42959",
+   "Legal_Name_-_First_Name": "Chaitra",
+   "Legal_Name_-_Last_Name": "Ganjigatti",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "43106",
+   "Legal_Name_-_First_Name": "Sunil",
+   "Legal_Name_-_Last_Name": "Devaganamath",
+   "Manager": "Gensler Organization (92485)[C]",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "43168",
+   "Legal_Name_-_First_Name": "Aaditya",
+   "Legal_Name_-_Last_Name": "Chourasia",
+   "Manager": "Aaron Menkens (18541)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "43178",
+   "Legal_Name_-_First_Name": "Mogan",
+   "Legal_Name_-_Last_Name": "Babu",
+   "Manager": "Rajesh Arumugam (20592)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "43439",
+   "Legal_Name_-_First_Name": "Rakesh",
+   "Legal_Name_-_Last_Name": "Nirale",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "43486",
+   "Legal_Name_-_First_Name": "Karthik",
+   "Legal_Name_-_Last_Name": "Kulur",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "44003",
+   "Legal_Name_-_First_Name": "Pennaperuru",
+   "Legal_Name_-_Last_Name": "Nishit",
+   "Manager": "Anuj Patel (25857)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "44391",
+   "Legal_Name_-_First_Name": "Ganesh",
+   "Legal_Name_-_Last_Name": "TN",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "44416",
+   "Legal_Name_-_First_Name": "Vishal",
+   "Legal_Name_-_Last_Name": "Divekar",
+   "Manager": "Aritra Ghosh (42866)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "44484",
+   "Legal_Name_-_First_Name": "Viswarthan",
+   "Legal_Name_-_Last_Name": "Suresh",
+   "Manager": "Karthiga T (20842)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "44761",
+   "Legal_Name_-_First_Name": "Shubhangi",
+   "Legal_Name_-_Last_Name": "Thakur",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "44810",
+   "Legal_Name_-_First_Name": "Vinamra",
+   "Legal_Name_-_Last_Name": "Jain",
+   "Manager": "Lucy Olsen (23555)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "44816",
+   "Legal_Name_-_First_Name": "Prasannakumar",
+   "Legal_Name_-_Last_Name": "Reddy",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "FW: Data Platform-India",
+   "Employee_ID": "46118",
+   "Legal_Name_-_First_Name": "Charlin",
+   "Legal_Name_-_Last_Name": "Praison",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "46309",
+   "Legal_Name_-_First_Name": "Habeel",
+   "Legal_Name_-_Last_Name": "Mohidin",
+   "Manager": "Soumya Veeresh (24360)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "47179",
+   "Legal_Name_-_First_Name": "Chaitra",
+   "Legal_Name_-_Last_Name": "Ganjigatti",
+   "Manager": "Lucy Olsen (23555)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92238",
+   "Legal_Name_-_First_Name": "Prachi",
+   "Legal_Name_-_Last_Name": "Koul",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Knowledge & Data"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92363",
+   "Legal_Name_-_First_Name": "Gopesh",
+   "Legal_Name_-_Last_Name": "Sharma",
+   "Manager": "Gaurav Upadhyay (23343)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Data Platform"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92425",
+   "Legal_Name_-_First_Name": "Tomy",
+   "Legal_Name_-_Last_Name": "Pallissery",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92434",
+   "Legal_Name_-_First_Name": "Anusha",
+   "Legal_Name_-_Last_Name": "Koppisetti",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92500",
+   "Legal_Name_-_First_Name": "Rohith",
+   "Legal_Name_-_Last_Name": "Thatipally",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92628",
+   "Legal_Name_-_First_Name": "Harinath",
+   "Legal_Name_-_Last_Name": "Bolisetty",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+},
+{
+   "Cost_Center": "Information Systems-India",
+   "Employee_ID": "92656",
+   "Legal_Name_-_First_Name": "Soniya",
+   "Legal_Name_-_Last_Name": "Dunna",
+   "Manager": "Sruthi Damireddy (23240)",
+   "Region": "Firmwide Resources",
+   "Studio": "FW-Information Systems"
+}]
+}
